@@ -5,10 +5,10 @@
 
 .jumbotron {
   margin-bottom: 30px;
-  background-image: url(../images/npr.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: darkgray;
+  background-image: url(../images/news2.jpg);
+  background-size: auto;
+  background-repeat: repeat;
+  color: white;
   font: 24px;
 
   /* text-shadow: rgb(253, 252, 252) 0.3em 0.3em 0.3em; */
@@ -67,7 +67,10 @@ button.btn-save {
 
 body {
   
-  background-color: lightskyblue;
+  background-color: lightslategrey;
+  font-family: 'Merriweather', serif;
+
+
 }
 
 /* =======MEDIA QUERIES====== */
