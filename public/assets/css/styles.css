@@ -8,7 +8,7 @@
   background-image: url(../images/npr.png);
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+  color: darkgray;
   font: 24px;
 
   /* text-shadow: rgb(253, 252, 252) 0.3em 0.3em 0.3em; */
@@ -63,6 +63,11 @@ button.btn-save {
 .footer {
   text-align: center;
   margin-top:30px;
+}
+
+body {
+  
+  background-color: lightskyblue;
 }
 
 /* =======MEDIA QUERIES====== */
